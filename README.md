@@ -1,6 +1,6 @@
 # 腾讯公司丑闻精选
 
-## https://zgq-inc.github.io/SB-Tencent/
+## [在Github查看](https://zgq-inc.github.io/SB-Tencent/%E8%85%BE%E8%AE%AF%E4%B8%91%E9%97%BB.html)
 
 # 马化腾你妈死了
 
