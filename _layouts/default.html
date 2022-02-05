@@ -21,7 +21,23 @@
           {% endif %}
 
           <h1 id="project_title">献给腾讯公司的礼物</h1>
-          <h2 id="project_tagline">马化腾你妈死了</h2>
+          <h2 id="project_tagline">   <head>
+
+<marquee scrollamount=30>
+    <font size="10" id="f">马化腾你妈死了</font><script>window.self.setInterval("r()",200);function r(){document.getElementById("f").style.color ="red"==f.style.color?"blue":"red";}</script>
+<br/>
+<font id="f"></font><script>window.self.setInterval("r()",200);function r(){var f = document.getElementById("f");f.style.color ="red"==f.style.color?"green":"green"==f.style.color?"blue":"red";}</script>
+</marquee>
+
+    </head>
+    <body>
+<style>
+    marquee{
+        width:400px;
+        height:200px;
+        bgcolor:red;
+    }
+</style></h2>
 
           {% if site.show_downloads %}
             <section id="downloads">
