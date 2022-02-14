@@ -28,7 +28,7 @@
 
 # 马化腾遗像
 
-![20220211_182423](https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220201/20220211_182423.1v38mpvlflls.png)
+![20220214_210525](https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220214/20220214_210525.4z7yv7yxs400.png)
 
 # 马化腾本人身份证
 
