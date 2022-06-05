@@ -28,10 +28,10 @@
 
 # 马化腾遗像
 
-![20220214_210525](https://cdn.jsdelivr.net/gh/ZGQ-inc/SB-Tencent@master/20220214_210525.png)
+![20220214_210525](https://zgq-inc.github.io/SB-Tencent/20220214_210525.png)
 
 # 马化腾本人身份证
 
-![20220209_125552](https://cdn.jsdelivr.net/gh/ZGQ-inc/SB-Tencent@master/20220406_230929.jpg)
+![20220209_125552](https://zgq-inc.github.io/SB-Tencent/20220406_230929.jpg)
 
 `440301197110292910`
